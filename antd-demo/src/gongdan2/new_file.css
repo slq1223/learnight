@@ -1,0 +1,153 @@
+.total{
+	width:656px;
+	height: 970px;
+}
+.left{
+	width: 260px;
+	height: 483px;
+	position: absolute;
+	left:0;
+	top: 0;
+	float: left;
+}
+.ant-form-item{
+	margin-bottom: 9px;
+}
+.ant-input-lg{
+	height: 22px;
+}
+.right{
+	width: 295px;
+	height: 523px;
+	position: absolute;
+	top: -40px;
+	left: 360px;
+}
+.fengmian{
+	width: 296px;
+	height: 230px;
+}
+.upload1{
+	width: 295px;
+	height:200px ;
+	border: #ccc solid 1px;
+}
+.choice1{
+	position: absolute;
+    top: 210px;
+    left: 73px;
+}
+#fengmianload{
+	position: absolute;
+	top: 210px;
+	left: 170px;
+}
+.up-choice{
+	width: 296px;
+	height: 285px;
+	padding-top: -30px;
+}
+.bottom{
+	width: 656px;
+	height: 485px;
+	position: absolute;
+	top: 485px;
+}
+.form1{
+	/*float: left;*/
+}
+.jianjie{
+	width:540px ;
+	
+}
+.ant-col-3 {
+    display: block;
+     width: 74px; 
+}
+textarea.ant-input {
+    max-width: 540px; 
+    height: auto;
+    vertical-align: bottom;
+}
+.ant-col-6 {
+    display: block;
+     width: 74px; 
+}
+.ant-upload-list.ant-upload-list-picture {
+    position: relative;
+}
+.up-choice1{
+	width: 540px;
+	height: 135px;
+	margin-bottom: 9px;
+}
+.ant-upload-list-picture .ant-upload-list-item, .ant-upload-list-picture-card .ant-upload-list-item {
+    padding: 8px;
+    border: none;
+    height: 159px;
+    position: relative;
+}
+.ant-upload-list-item {
+    overflow: hidden;
+     margin-top: 0; 
+    font-size: 12px;
+}
+.ant-upload-list-picture .ant-upload-list-item-thumbnail, .ant-upload-list-picture-card .ant-upload-list-item-thumbnail {
+    width: 100%;
+    height: 100%;
+}
+.ant-upload-list-picture .ant-upload-list-item-thumbnail img, .ant-upload-list-picture-card .ant-upload-list-item-thumbnail img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-align: center;
+}
+.haibao {
+	width: 540px;
+	
+}
+.haibao .ant-upload-list.ant-upload-list-picture {
+    height: 100px;
+}
+.haibao .ant-upload-list-picture .ant-upload-list-item-thumbnail img, .ant-upload-list-picture-card .ant-upload-list-item-thumbnail img {
+    width: 120px;
+    height: 80px;
+    display: block;
+}
+.haibao .ant-upload-list-picture .ant-upload-list-item-thumbnail, .ant-upload-list-picture-card .ant-upload-list-item-thumbnail {
+    width: 120px;
+    height: 80px;
+}
+.haibao .ant-upload-list-picture .ant-upload-list-item, .ant-upload-list-picture-card .ant-upload-list-item {
+    padding: 8px;
+    border: none;
+    height: 100px;
+    width: 140px;
+    position: relative;
+    display: inline-block;
+}
+.haibao .ant-upload-list.ant-upload-list-picture {
+    height: 100px;
+    position: relative;
+    top: -33px;
+    border: #ccc solid 1px  ;
+}
+.choice2{
+	position: relative;
+    top: 102px;
+    margin-left: 6px;
+}
+button#upload2{
+	position: relative;
+    top: 102px;
+    margin-left: 30px;
+}
+
+.ant-upload-list-picture .ant-upload-list-item, .ant-upload-list-picture-card .ant-upload-list-item {
+   padding: 0; 
+    height: 159px;
+    /* position: relative; */
+}
+
+
+

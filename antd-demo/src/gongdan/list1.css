@@ -1,0 +1,53 @@
+.spantt span{
+	position:relative;
+	left: 5px;
+	font-size: 12px;
+	vertical-align: middle;
+}
+.table1 tbody.ant-table-tbody tr {
+    height: 30px;
+}
+.spantt img{
+	width: 18px;
+	height: 20px;
+	padding: 1px;
+	vertical-align: middle;
+}
+.ant-table td {
+    text-align: center;
+}
+td.ant-table-selection-column {
+    text-align: center;
+    height: 29px;
+}
+.ant-table th, .ant-table td {
+    padding: 0px 8px;
+}
+.ant-table th {
+    text-align: center;
+}
+table-selection-column {
+    text-align: center;
+    width: 60px;
+    border-right: none;
+}
+.ant-table table {
+    width: 847px;
+    border: #d7d7d7 solid 1px;
+}    
+.ant-table-pagination {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

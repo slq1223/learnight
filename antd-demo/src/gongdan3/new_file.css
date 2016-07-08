@@ -1,0 +1,38 @@
+.ant-table td {
+    border-right: #d7d7d7 solid 1px;
+}
+.ant-table-selection-column {
+    text-align: center;
+    width: 60px;
+    border-right: none;
+}
+thead.ant-table-thead th {
+    height: 30px;
+}
+tbody.ant-table-tbody tr {
+    height: 68px;
+}
+.save{
+	margin-left: 1154px;
+	margin-bottom: 30px;
+}
+.save button{
+	margin-left: 10px;
+}
+.ant-table-pagination {
+    margin: 16px 0;
+    float: right;
+    margin-right: 50px;
+}
+.table3 .spantt img {
+    width: 80px;
+    height: 50px;
+    padding: 6px 6px 12px 6px;
+    vertical-align: middle;
+}
+.table3 td.ant-table-selection-column {
+    border-right: none;
+}
+.table3 th.ant-table-selection-column {
+    border-right: none;
+}

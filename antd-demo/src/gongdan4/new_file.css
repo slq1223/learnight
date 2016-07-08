@@ -1,0 +1,84 @@
+.date{
+	width: 490px;
+	border: #ccc solid 1px;
+	height: 550px;
+	padding-top: 20px;
+	padding-left: 10px;
+	float: left;
+}
+
+.name{
+	width: 150px;
+}
+.search {
+    margin-left: -60px;
+    background-color: #fff;
+    margin-top: -1px;
+    border-right: none;
+}
+.fr{float: right;}
+.fl{float: left;}
+.show{
+	width: 468px;
+	margin-left: 10px;
+	margin-top: 20px;
+	border-top:#ccc solid 1px ;
+	height: 1px;
+}
+.chengpin{
+	width: 114px;
+	height: 450px;
+	border-right: #ccc solid 1px;
+}
+.jiemu {
+    width: 355px;
+    height: 480px;
+    border-left: #ccc solid 1px;
+    position: relative;
+    top: -451px;
+}
+.ant-transfer-list.left {
+    margin-top: 50px;
+}
+.add{
+	border: #ccc solid 1px;
+	width: 298px;
+	height: 550px;
+	position: absolute;
+    left: 598px;
+}
+.table4 .ant-table table {
+    width: 355px;
+    border: #d7d7d7 solid 1px;
+}
+.list h3{
+	text-align: center;
+	font-weight: normal;
+	border-bottom: #ccc solid 1px;
+	font-size: 14px;
+}
+.add ul li{
+	list-style: none;
+	border-bottom: #ccc solid 1px;
+	font-family: "宋体";
+	font-size: 14px;
+}
+.ant-table th, .ant-table td {
+    border-right: #ccc solid 1px;
+}
+.ant-table th {
+     background: #FFFFFF; 
+     border-bottom: #ccc solid 1px;
+}
+.addButton {
+    width: 89px;
+    height: 350px;
+    margin-left: 495px;
+}
+.addButton input{
+	width: 70px;
+	height: 50px;
+	margin-bottom: 45px;
+	background: #FFFFFF;
+	border:#ccc solid 1px ;
+}
